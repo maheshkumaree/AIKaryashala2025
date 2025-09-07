@@ -1,0 +1,149 @@
+5th September 2025
+
+Things I learnt in this one month from Aug 5th 2025
+
+a.Algorithm :
+1. definition
+2. principles
+7 principles.... end user experience, meaningful variable names, coding style, correctness, multiple solutions, no duplicate code, optimisation
+
+did 22 algorithms.. math logics ; sum = +, multiplication + *, natural numbers are 1,2,3,... infinity, even numbers 0,2,4,.... div by 2, odd numbers not div by 2
+square series, power series, prime  1 and itself, also not a multiple of  between 2 and n where n square > = p , factorial, comparison of two numbers , swapping two numbers, 
+sum and product : dividend = divisor * quotient + remainder, /, %, declaration statement, initialisation statement, increment statement,
+integer literal
+
+
+algorithm structure : keywords, variables, print statements, conditional statements, assigntment statements, 
+operators, expressions, evaluation , assignment, equations, math conditonals, 
+
+command  lines in linux : pwd, cd, cd~, cd .., uparrow, tabkey, shortcut to open powershell or bash or cmd, 
+ls, cat, mkdir, rmdir, mc, cp, New-Item, touch, Get-Content, SetContent, encoding, echo, >, >>, < 
+
+git : init, local repo, remote repo, add, commit, status, origin, main, ssh key, gitignore, / root, . - hidden, 
+git config --list
+
+environment variables- PATH variable
+
+RegEx, specs, ui, ux, id services, os loads on rom, updates on rom, 
+
+understanding is more imp than rot learning, if we dont know means nothing wrong or bad, always be ready to learn or do new things, to keep ourself calm miracle of mind medition tool, 
+teach whatever we understand to others will help a lot... 
+
+medition insights sadgurus: to do medititaion means not stopping thoughts just like not stopping liver it means to sit relaxed for sometime
+
+
+
+short / video on daily learning, series, max english if not tinglish,
+
+overloading.. same operator doing multiple tasks
+
+first the code/command is parsed which then be compiled or interpreted or both then machine code is sent to instruction set and then sent to processor.
+
+concetanation cases:
+if two strings are then they get add normally, if two numbers are there they get added mathmetically, if a string and a numeral is there first the numeral gets converted into string then added together as strings
+
+
+Ai working requirements: 1. manaki em chestunamo em cheyali anukuntunamo clarity ga teliyali, 2. manam AI ki correct ga chepaagalagali, return response ni manam ardham chesukovali. 
+
+joho: can create our own username.
+
+\n --- is used to go to newline 
+
+difference between N and upto N. 
+
+if condition, while loop, 
+
+c programming structure
+compiling running...
+
+git workflow
+
+winpty - gitbash - ctrl +c : returns to prompt 
+why .\ or ./ before running any program? to say that the path 
+
+TOPICS in ORDER :
+
+1.Algorithm :
+Algo Definition - ONE LINE DEF ALONG WITH EX
+ALGO PRINCIPLES - 7 PRINCIPLES
+ALGO STRUCTURE:
+KEY WORDS - RULES AND WHAT ARE THEY USED FOR - ACTIONABLE
+VARIABLES - RULES AND WHAT ARE THEY USED FOR - MEMORY(SET, ACESS, UPDATE)
+EXPRESSIONS - WHAT IT IS
+EQUATIONS'- WHAT ARE THEY
+STATEMENTS - TYPES AND EACH IN ACTION
+OPERATORS - WHAT ARE THEY 
+OPERANDS - WHAT ARE THEY
+CONDITIONALS - MATH AND CS EQUIVALENT
+NEWLINE - \N
++ : CONCETANATION - 3 CASES.
+
+2. ALGORITHMS LOGICS:
+SUM,MUL,DIV, REMAINDER, NATURAL, EVEN, ODD, PRIME, FACTORIAL, COMPARISON, SQUARES, POWERS
+DIFF BETWEEN N AND UPTO N.
+
+3.FLOWCHARTS - RULES
+START, STOP - OVAL, I/O - PARELELLOGRAM, ASSIGNMENTS(PROCESSES) - RECTANGLE, CONDITIONALS - RHOMBUS, GOTO- LINE DIRECTION
+
+4.GIT : 
+WORKFLOW - FUNDAMENTAL 
+WORDS/COMMANDS :
+config - once per machine -- global, config --list
+INIT, ADD, COMMIT, PUSH, REMOTE ADD, PULL, CLONE, .GITIGNORE, *.EXE(REGEX), STATUS, ORIGIN, MAIN, BRANCH, 
+winpty - gitbash - ctrl +c : returns to prompt 
+SSH KEY GEN
+GIT - LF - CRLF
+being ahead of repos, rm --cached *.exe -- removes files in staging area after added
+git -stash
+git lfs
+
+5. CLANG - <NAME.C> -O <NAME.EXE> : : ./NAME.EXE AND WHY ./ ?
+START- , STOP- , DECLARATION, IF -- WHILE
+
+6. ENVIRONMENT VARIABLES AND PATH VARIABLE
+
+7.MOBILE COMMUNICATION AND INTERNET BRIEFLY NOT IN DEPTH
+
+8.LINUX COMMANDS:
+pwd, cd, cd~, cd .., uparrow, tabkey, shortcut to open powershell or bash or cmd, 
+ls, cat, mkdir, rmdir, mv, cp, touch, New-Item, touch, Get-Content, SetContent, encoding, echo, >, >>, < 
+./, . - HIDDEN, / - ROOT
+commands and arguments, interfaces, parts of interface.
+
+9. MISC:
+
+RegEx, specs, ui, ux, id services, os loads on rom, updates on rom.
+
+
+overloading.. same operator doing multiple tasks
+
+first the code/command is parsed which then be compiled or interpreted or both then machine code -- ASSEMBLY-- OBJECT FILE 
+is sent to instruction set and then sent to processor.
+
+AI working PRINCIPLES: 
+1. manaki em chestunamo em cheyali anukuntunamo clarity ga teliyali
+2. manam AI ki correct ga chepaagalagali
+3.return response ni manam ardham chesukovali. 
+
+sample idea of how files look in git.........
+
+$ git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .gitignore
+        new file:   learningsummary.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   learningsummary.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        pics&flowcharts/
+
+untracked means git dont know about them, changes not staged for commit means files under tracking(alread staged or comitted), changes to be comitted means in staging area
