@@ -1,0 +1,12 @@
+Algorithm: To print natural numbers upto N.
+step-1: start
+step-2: print "Upto which number you want to print natural numbers? "
+step-3: read Count
+step-4: Counter = 0
+step-5: print "The natural numbers upto " + Count + " are "
+step-6: if Counter < Count:
+			Counter = Count + 1
+			print Counter + ", "
+			goto step-6
+step-7: print Count + ".\n"
+step-8: stop
